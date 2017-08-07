@@ -1,11 +1,4 @@
-## Dev Enviornment Biolerplate
-
-Packages Used 
-
-lite-server (https://www.npmjs.com/package/lite-server)
-webpack
-React and React-Dom
-Babel
+## Simple app for adding github user in a list using React
 
 
 # How to run this project
